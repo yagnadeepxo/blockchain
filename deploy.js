@@ -21,7 +21,7 @@ const { interface, bytecode } = require("./compile");
 
 const provider = new HDWalletProvider(
     // mneumonic 
-    'hello just settle tree group develop donate future day inhale bachelor category',
+    'metamask private key',
     // provider through infura
     'https://rinkeby.infura.io/v3/bef11b0a67f8418b9164ae2b30711ae4'
 );
