@@ -21,7 +21,7 @@ const { interface, bytecode } = require("./compile");
 
 const provider = new HDWalletProvider(
     // mneumonic 
-    'metamask private key',
+    'key phrase BIP39',
     // provider through infura
     'https://rinkeby.infura.io/v3/bef11b0a67f8418b9164ae2b30711ae4'
 );
